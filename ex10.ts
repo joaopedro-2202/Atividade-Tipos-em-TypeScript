@@ -1,4 +1,3 @@
-export {};
 
 type Placa = string;
 type Periodo = [entrada: number, saida: number];
