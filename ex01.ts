@@ -1,3 +1,4 @@
+export {};
 let nomeProduto1:string = 'pão francês', precoUnitario1:number = 0.75, quantidade1:number = 12;
 let nomeProduto2:string = 'bolo de cenoura', precoUnitario2:number = 18.5, quantidade2:number = 2;
 let quantidade_paes_venderia_ano:Number = 1_250_000;
